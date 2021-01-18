@@ -1,0 +1,42 @@
+body {
+  font-family: 'Montserrat';
+  letter-spacing: 0.3px;
+}
+
+#about, #skills, #accomplishments, #projects, #publications, #experience, #featued, #contact, .page-footer  {
+  background-color: #F5F5F5; 
+}
+
+a, i {
+  color: #273C59
+}
+
+.network-icon li {
+  margin-right: 15px;
+}
+
+.navbar {
+  font-family: 'Montserrat';
+  box-shadow: none;
+}
+
+.navbar span {
+  color: #273C59
+}
+
+.experience .m-2 .border.exp-fill{
+  background-color: #273C59!important;
+  border-color: #273C59!important;
+}
+
+.experience .m-2 .border {
+  border-color: #273C59!important;
+}
+
+.experience .m-2 .border, .experience .col.border-right {
+  border-color: #273C59!important;
+}
+
+.card {
+  border-radius: 15px;
+}
